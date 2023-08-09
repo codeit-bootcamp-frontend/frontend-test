@@ -1,0 +1,9 @@
+.button {
+  height: 80px;
+  padding: 0 20px;
+  border-radius: 0 10px 10px 0;
+}
+
+.text {
+  font-size: 20px;
+}
